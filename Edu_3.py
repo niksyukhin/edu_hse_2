@@ -6,3 +6,4 @@ print(b - c)
 d = int(input("Введите третье число:"))
 print(b + d)
 l = 'Москва'
+print(l)
