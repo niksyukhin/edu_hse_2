@@ -5,4 +5,5 @@ c = int(input("Введите второе число:"))
 print(b - c)
 d = int(input("Введите третье число:"))
 print(b + d)
-print(a, b)
+l = 'Москва'
+print(l)
