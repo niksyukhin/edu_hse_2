@@ -8,3 +8,4 @@ print(b + d)
 l = 'Москва'
 print(l)
 f = 'Иван'
+print(f)
