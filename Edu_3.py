@@ -10,6 +10,7 @@ print(b + d)
 l = 'Москва'
 print(l)
 f = 'Иван'
+f_1 = 'Айвана'
 print(f)
 print(l, f)
 g = int(input("Введите четвертое число:"))
