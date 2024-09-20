@@ -9,3 +9,5 @@ l = 'Москва'
 print(l)
 f = 'Иван'
 print(f)
+print(l, f)
+g = int(input("Введите четвертое число:"))
