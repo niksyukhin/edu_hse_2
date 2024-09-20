@@ -9,3 +9,4 @@ l = 'Москва'
 print(l)
 f = 'Иван'
 print(f)
+print(l, f)
