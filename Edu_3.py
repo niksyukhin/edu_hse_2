@@ -1,4 +1,5 @@
 a = 'Hello world'
+a_1 = 'Hello'
 print(a)
 b = int(input("Ведите первое число:"))
 c = int(input("Введите второе число:"))
